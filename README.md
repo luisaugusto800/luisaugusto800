@@ -16,12 +16,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou desenvolvedor de software focado na criação de soluções robustas, escaláveis e funcionais. Minha trajetória combina o rigor acadêmico com a resolução prática de problemas reais — desenvolvendo desde **arquiteturas de backend corporativas** e **aplicativos móveis completos**, até **motores analíticos e estatísticos** e **painéis operacionais em tempo real**.
+Olá! Sou desenvolvedor de software focado na construção de sistemas modernos, escaláveis e de alta confiabilidade. Minha experiência abrange o ciclo completo de desenvolvimento — desde **arquiteturas de backend robustas** e **bancos de dados relacionais bem estruturados** até **aplicativos móveis fluidos** e **interfaces web interativas**.
 
-- 🎓 **Formação Acadêmica:** Estudante na **Unisinos** (Universidade do Vale do Rio dos Sinos), aprofundando em Fundamentos da Computação, Arquitetura de Sistemas, Banco de Dados Relacional e Sistemas Operacionais.
-- 🏗️ **Foco de Engenharia:** Arquitetura Limpa (Clean Architecture / DDD), desenvolvimento orientado a domínio, microsserviços/monorepos modulares e boas práticas de modelagem de dados.
-- 📱 **Mobile & Full Stack:** Aplicações nativas com React Native / Expo integradas a APIs REST (.NET 9 e Node.js/TypeScript) e PostgreSQL.
-- 📊 **Análise de Dados & Machine Learning:** Experiência prática na modelagem de algoritmos preditivos e probabilísticos em Python (CatBoost, Simulações Monte Carlo).
+- 🎓 **Formação Acadêmica:** Estudante de Computação na **Unisinos** (Universidade do Vale do Rio dos Sinos), aprofundando em Fundamentos da Computação, Arquitetura da Informação, Sistemas Operacionais e Modelagem de Bancos de Dados.
+- 🏗️ **Arquitetura & Backend:** Desenvolvimento orientado a **Clean Architecture / DDD**, criação de APIs REST performáticas com **.NET 9 / C#** e **Node.js / Express (TypeScript)**.
+- 📱 **Mobile & Frontend:** Construção de apps nativos com **React Native + Expo**, interfaces web reativas com **React + Vite**, estilização moderna com **Tailwind CSS** e gerenciamento de estado global.
+- 🐳 **Infraestrutura & Qualidade:** Padronização com **Docker**, versionamento rigoroso com **Git/GitHub** e modelagem de regras de negócio complexas.
 
 ---
 
@@ -72,7 +72,7 @@ Olá! Sou desenvolvedor de software focado na criação de soluções robustas, 
   <tr>
     <td width="50%" valign="top">
       <h3>📱 NCC Conecta — Gestão de Presença & Frequência</h3>
-      <p>Ecossistema completo (App Mobile + API Backend) para controle de presença e turmas do Núcleo de Capacitação Continuada.</p>
+      <p>Ecossistema completo (App Mobile + API Backend) para controle de presença e gestão de turmas do Núcleo de Capacitação Continuada.</p>
       <ul>
         <li><b>Backend:</b> API REST em <b>.NET 9 / C#</b> seguindo <b>Clean Architecture / DDD</b> (Api, Application, Domain, Infrastructure).</li>
         <li><b>Mobile:</b> <b>React Native + Expo</b> com TypeScript, validação de presença por <b>QR Code dinâmico</b> com expiração e <b>Geofencing GPS</b> (raio de tolerância de 100m da instituição).</li>
@@ -87,11 +87,11 @@ Olá! Sou desenvolvedor de software focado na criação de soluções robustas, 
     </td>
     <td width="50%" valign="top">
       <h3>🚖 Rádio Táxi OS — Central Operacional & Despacho</h3>
-      <p>Plataforma multi-tenant corporativa para gerenciamento de frotas, motoristas, empresas clientes e despacho de corridas (QRUs).</p>
+      <p>Plataforma corporativa multi-tenant para gerenciamento de frotas, motoristas, empresas conveniadas e despacho de corridas (QRUs).</p>
       <ul>
         <li><b>Arquitetura:</b> Monorepo com API em <b>Node.js + Express (TypeScript)</b>, painel operacional em <b>React + Vite</b> e banco <b>PostgreSQL via Docker Compose</b>.</li>
         <li><b>Funcionalidades:</b> Fila de despacho em tempo real, telemetria GPS de motoristas, regras de precificação dinâmica, faturamento corporativo e auditoria operacional.</li>
-        <li><b>Engenharia de Dados:</b> Modelagem robusta de diagramas ER (Draw.io), documentação de regras de negócio e testes automatizados.</li>
+        <li><b>Engenharia de Dados:</b> Modelagem robusta de diagramas ER (Draw.io), documentação completa de requisitos e testes operacionais.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -103,26 +103,11 @@ Olá! Sou desenvolvedor de software focado na criação de soluções robustas, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Lottery Tool & Machine Learning Engine</h3>
-      <p>Ferramenta avançada para análise estatística, simulação estocástica e predição de dados históricos da loteria Mega-Sena.</p>
-      <ul>
-        <li><b>Ciência de Dados:</b> Algoritmos de Machine Learning com <b>CatBoost</b> (Gradient Boosting) treinados com histórico de dados reais.</li>
-        <li><b>Simulações Matemáticas:</b> Simulação <b>Monte Carlo</b> para estimativa de distribuição de acertos, análise de frequência com decay exponencial e sequenciamento de streaks.</li>
-        <li><b>Tecnologias:</b> Python, SQLite para persistência e CLI intuitivo para simulações e análises comparativas.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black" />
-        <img src="https://img.shields.io/badge/Monte_Carlo-4B0082?style=flat-square&logo=scipy&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🛒 Loja Virtual 2.0 — E-Commerce Full Stack</h3>
-      <p>Aplicação moderna e responsiva de comércio eletrônico com catálogo de produtos, checkout e área administrativa.</p>
+      <p>Aplicação moderna e responsiva de comércio eletrônico com catálogo dinâmico de produtos, carrinho, checkout e área administrativa.</p>
       <ul>
-        <li><b>Frontend:</b> <b>React 18 + Vite + TypeScript</b>, estilizado com <b>Tailwind CSS</b> e arquitetura baseada em componentes modulares.</li>
-        <li><b>Gerenciamento de Estado:</b> Stores globais com <b>Zustand</b> e validação de contratos com <b>Zod</b>.</li>
+        <li><b>Frontend:</b> <b>React + Vite + TypeScript</b>, interface moderna estilizada com <b>Tailwind CSS</b> e arquitetura baseada em componentes reutilizáveis.</li>
+        <li><b>Gerenciamento de Estado:</b> Stores globais com <b>Zustand</b> e validação de esquemas de dados com <b>Zod</b>.</li>
         <li><b>Backend & Autenticação:</b> Integração completa com <b>Supabase</b> (Auth, Row Level Security, Banco PostgreSQL e Migrations versionadas).</li>
       </ul>
       <p>
@@ -132,16 +117,23 @@ Olá! Sou desenvolvedor de software focado na criação de soluções robustas, 
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Terra Gourmet & Soluções Web Comerciais</h3>
+      <p>Desenvolvimento de plataformas web para clientes reais, com foco em performance, identidade de marca e conversão.</p>
+      <ul>
+        <li><b>Terra Gourmet (Condomínio Terra Ville):</b> Portal gastronômico com design sofisticado, cardápio digital, metatags Open Graph para compartilhamento social e alta pontuação de SEO.</li>
+        <li><b>DLS Repres Comercial:</b> Catálogo online responsivo para representação comercial de suprimentos corporativos, construído com React, Vite e Tailwind CSS.</li>
+        <li><b>Foco:</b> Responsividade, tempos de carregamento reduzidos e experiência de usuário (UX).</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI%2FUX-Design-orange?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
-
----
-
-### 🌐 Aplicações Web & Projetos Comerciais
-
-- **DLS Repres Comercial:** Catálogo e portal institucional para representação comercial de suprimentos e embalagens industriais (desenvolvido em React + Vite + Tailwind CSS).
-- **Terra Gourmet (Condomínio Terra Ville):** Landing page responsiva com foco em conversão, SEO e identidade visual sofisticada para restaurante gastronômico.
-- **Central Táxi Verde e Branco:** Manutenção de presença digital, ativos gráficos e estruturação de dados para cooperativa de táxis.
 
 ---
 
