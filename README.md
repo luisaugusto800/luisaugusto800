@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35&height=220&section=header&text=Luis%20Augusto%20Silveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Mobile&descFontSize=20&descAlignY=60" width="100%" />
+  <h1 align="center">👋 Olá, eu sou o Luís Augusto Silveira</h1>
+
+  <p align="center">
+    <a href="https://github.com/luisaugusto800">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Software+Developer+%F0%9F%9A%80;Full+Stack+%26+Mobile+Engineer+%F0%9F%93%B1;C%23+%C2%B7+.NET+9+%C2%B7+React+Native+%C2%B7+TypeScript;An%C3%A1lise+e+Desenv.+de+Sistemas+%28ADS%29+%40+Unisinos+%F0%9F%8E%93" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p align="center">
     <a href="mailto:luisaugustosilveira724@gmail.com">
@@ -18,7 +24,7 @@
 
 Olá! Sou desenvolvedor de software focado na construção de sistemas modernos, escaláveis e de alta confiabilidade. Minha experiência abrange o ciclo completo de desenvolvimento — desde **arquiteturas de backend robustas** e **bancos de dados relacionais bem estruturados** até **aplicativos móveis fluidos** e **interfaces web interativas**.
 
-- 🎓 **Formação Acadêmica:** Estudante de Computação na **Unisinos** (Universidade do Vale do Rio dos Sinos), aprofundando em Fundamentos da Computação, Arquitetura da Informação, Sistemas Operacionais e Modelagem de Bancos de Dados.
+- 🎓 **Formação Acadêmica:** Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Unisinos** (Universidade do Vale do Rio dos Sinos), aprofundando em Fundamentos da Computação, Arquitetura da Informação, Sistemas Operacionais e Modelagem de Bancos de Dados.
 - 🏗️ **Arquitetura & Backend:** Desenvolvimento orientado a **Clean Architecture / DDD**, criação de APIs REST performáticas com **.NET 9 / C#** e **Node.js / Express (TypeScript)**.
 - 📱 **Mobile & Frontend:** Construção de apps nativos com **React Native + Expo**, interfaces web reativas com **React + Vite**, estilização moderna com **Tailwind CSS** e gerenciamento de estado global.
 - 🐳 **Infraestrutura & Qualidade:** Padronização com **Docker**, versionamento rigoroso com **Git/GitHub** e modelagem de regras de negócio complexas.
