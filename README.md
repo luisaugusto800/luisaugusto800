@@ -148,8 +148,8 @@ Olá! Sou desenvolvedor de software focado na construção de sistemas modernos,
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisaugusto800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaugusto800&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=luisaugusto800&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luisaugusto800&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
 <div align="center">
